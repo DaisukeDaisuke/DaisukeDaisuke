@@ -39,6 +39,9 @@ pmmp関連(php)
 
 </details>
 
+<details>
+
+<summary>連絡したい場合</summary>
 
 ## 連絡先
 ### 緊急ではない場合
@@ -57,6 +60,10 @@ Github コミュニティガイドラインに違反しないことを確認の�
 これは一般公開され、投稿者側からはアカウント削除しても、投稿を削除できませんので、この連絡先はよく考えて使用してください       
 また、Sure-Contactの返信はissueへの返信という形で行わさせていただきますので、作成後に移動したurlをメモの上、Githubアカウントは削除しないでください  
 https://github.com/DaisukeDaisuke/Sure-Contact/issues/new/choose    
+
+
+</details>
+
 
 <!--
 **DaisukeDaisuke/DaisukeDaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
