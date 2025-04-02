@@ -31,7 +31,7 @@ dq9バトルエミュレータ(c++)
 pmmp関連(php)
 
 #### 2023年10月~
-dq9界隈のQOL上昇に貢献など、途中でMultiCommentViewerニコ生対応版作ったりするなどした
+dq9界隈のQOL上昇に貢献など、途中でMultiCommentViewer新ニコ生暫定対応版作ったりするなどした
 
 #### 2023年~
 pmmp関連(php)
