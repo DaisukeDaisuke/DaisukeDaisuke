@@ -43,14 +43,17 @@ pmmp関連(php)
 ## 連絡先
 ### 緊急ではない場合
 Twitterのdmにご連絡ください  
-(**仕事/副業関連は無視またはブロックまたはその両方の対応をします**のでご注意ください)   
+(**仕事/副業関連は無視またはブロックまたはその両方の対応をします**のでご注意ください。また、不適切な画像等を送信した場合通報しますのでご注意ください。)   
 https://x.com/Daisuke76897125  
 
 ### 緊急の場合
-Sure-Contactの「Open a blank issue」からご連絡ください。  
-Github コミュニティガイドラインに違反しないことを確認の上で送信してください      
-これは一般公開され、投稿者側からは削除できませんので、この連絡先はよく考えて使用してください    
-https://github.com/DaisukeDaisuke/Sure-Contact/issues/new/choose  
+dmcaの警告など、緊急で対処が必要なタスクが発生した場合、**Sure-Contactの「Open a blank issue」からご連絡**ください。   
+これにはGithubアカウントが必要です。    
+また、広告的な内容を送信、Sure-Contactで宣伝を行うことはGithubコミュニティガイドライン等に違反しますので、これに該当する場合、通報させていただきます。   
+自作の告知システムにより、10分以内、深夜の場合は朝起床してすぐに対応を検討させていただきます。   
+Github コミュニティガイドラインに違反しないことを確認の上で送信してください        
+これは一般公開され、投稿者側からはアカウント削除しても、投稿を削除できませんので、この連絡先はよく考えて使用してください       
+https://github.com/DaisukeDaisuke/Sure-Contact/issues/new/choose    
 
 <!--
 **DaisukeDaisuke/DaisukeDaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
