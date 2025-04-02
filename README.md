@@ -1,4 +1,56 @@
-## Hi there 👋
+## DaisukeDiauske
+
+気ままに必要な言語を使って、個人的な問題を解決していっているニートです。  
+好きな言語はphpです。問題を解決するのに必要な場合、c#、c++などで書くこともあります。  
+いまのところ**仕事は募集**していません。仕事/副業関連のdmはスパムと判断され、無視、またはブロックもしくはその両方の対応をしますのでご注意ください。  
+
+<details>
+
+<summary>自己紹介など</summary>
+
+## リポジトリ紹介
+### MultiCommentViewer  
+2024年8月ごろに、必要そうな人が多いという理由でc#を使ってマルチコメントビュワーの暫定ニコ生対応版を書きました。  
+https://github.com/DaisukeDaisuke/MultiCommentViewer/releases/tag/0.6.37a
+
+## dq9バトルエミュレータプロジェクト
+「私の好きな配信者を助けれる」という理由で始まったdq9のバトルエミュレータプロジェクトは、2024年後半、私が主に従事していたプロジェクトです。  
+c++で書かれています。  
+https://github.com/DaisukeDaisuke/dq9BattleEmulatorCollection.cpp
+
+## ライセンスの方針について
+私が著作権を持つプロジェクトでは寛容なライセンスを使うことにしています。  
+MITライセンス、unlicenseなどを好みます。  
+
+## 従事してきたプロジェクトメモ
+
+#### 2025年3月~
+dq9バトルエミュレータ(c++)
+
+#### 2025年1月3日~
+pmmp関連(php)
+
+#### 2023年10月~
+dq9界隈のQOL上昇に貢献など、途中でMultiCommentViewerニコ生対応版作ったりするなどした
+
+#### 2023年~
+pmmp関連(php)
+
+
+</details>
+
+
+## 連絡先
+### 緊急ではない場合
+Twitterのdmにご連絡ください  
+(**仕事/副業関連は無視またはブロックまたはその両方の対応をします**のでご注意ください)   
+https://x.com/Daisuke76897125  
+
+### 緊急の場合
+Sure-Contactの「Open a blank issue」からご連絡ください。  
+Github コミュニティガイドラインに違反しないことを確認の上で送信してください      
+これは一般公開され、投稿者側からは削除できませんので、この連絡先はよく考えて使用してください    
+https://github.com/DaisukeDaisuke/Sure-Contact/issues/new/choose  
 
 <!--
 **DaisukeDaisuke/DaisukeDaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
