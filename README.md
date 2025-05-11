@@ -15,8 +15,8 @@
 これらのコミットについては私の管理外であり、報告を受けても対応が難しい点をご理解ください。  
 
 ## 私は、このユーザー名を生涯使い続けます。
-私は[MultiCommentViewer](https://github.com/DaisukeDaisuke/MultiCommentViewer/releases/tag/0.6.37a)など乗っ取られるとウイルスなどで広く影響が出るリポジトリを所有しています。
-そのため、乗っ取られたときの影響を計り知れないため、生涯DaisukeDiauskeというハンドルネームを保全し続けます。
+私は[MultiCommentViewer](https://github.com/DaisukeDaisuke/MultiCommentViewer/releases/tag/0.6.37a)など乗っ取られるとウイルスなどで広く影響が出るリポジトリを所有しています。  
+そのため、乗っ取られたときの影響を計り知れないため、生涯DaisukeDiauskeというハンドルネームを保全し続けます。  
 
 <details>
 
