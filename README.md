@@ -18,6 +18,24 @@
 私は[MultiCommentViewer](https://github.com/DaisukeDaisuke/MultiCommentViewer/releases/tag/0.6.37a)など乗っ取られるとウイルスなどで広く影響が出るリポジトリを所有しています。  
 そのため、乗っ取られたときの影響を計り知れないため、生涯DaisukeDiauskeというハンドルネームを保全し続けます。  
 
+## 私は、概念実証(poc)などから時間をかけて完璧にしていくタイプの開発者です。
+
+<details>
+
+<summary>概念実証の例をもっと詳しく</summary>
+
+### マルチコメントビュワー
+マルチコメントビュワーはNicolive-php-cli-echoという概念実証をもとに、実装しました  
+https://github.com/DaisukeDaisuke/Nicolive-php-cli-echo  
+  
+### dq9バトルエミュレータ
+dq9バトルエミュレータの初版コード(イシュダル)はかなり酷い品質で、2024年10月から、数か月かけて探索アルゴリズム、バトルの一時中断機能、ターンの部分実行など、必要な機能を実装していきました。  
+   
+### AwaitFormOptions
+初版のapiには満足しておらず、バージョン3.0.0が追加でリリースされる予定です。  
+
+</details>
+
 <!--
 
 ## 統計
