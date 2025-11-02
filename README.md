@@ -18,6 +18,16 @@
 私は[MultiCommentViewer](https://github.com/DaisukeDaisuke/MultiCommentViewer/releases/tag/0.6.37a)など乗っ取られるとウイルスなどで広く影響が出るリポジトリを所有しています。  
 そのため、乗っ取られたときの影響を計り知れないため、生涯DaisukeDiauskeというハンドルネームを保全し続けます。  
 
+## 私は、コードはオープンソースにするべきという思想を持つ開発者です。
+
+https://qiita.com/DaisukeDaisuke  
+  
+https://github.com/DQIX/dqix-functions  
+  
+https://github.com/DaisukeDaisuke/AwaitFormOptions  
+  
+など、私は守秘義務により公開できないものを除き、得られた知見をオープンソースで共有しようという思想を持ちます。  
+
 ## 私は、概念実証(poc)などから時間をかけて完璧にしていくタイプの開発者です。
 
 <details>
@@ -33,6 +43,12 @@ dq9バトルエミュレータの初版コード(イシュダル)はかなり酷
    
 ### AwaitFormOptions
 初版のapiには満足しておらず、バージョン3.0.0が追加でリリースされる予定です。  
+
+### dqvc list generator
+
+このツールは、phpスクリプト(理念実証)をもとに、jetbrainsのAIエージェントである、JunieのFree Plan(有料)で80%以上のコードが書かれています。  
+AIを書く上で、自らコードベースを理解して編集するテクニックも豊富に使用しています。  
+https://github.com/DQIX/auction  
 
 </details>
 
@@ -62,6 +78,10 @@ https://github.com/DaisukeDaisuke/dq9BattleEmulatorCollection.cpp
 MITライセンス、unlicenseなどを好みます。  
 
 ## 従事してきたプロジェクトメモ
+
+#### 2025年10月30日~
+
+ぼーとしてた
 
 #### 2025年9月10日~
 - dq9で遊んでた
