@@ -33,6 +33,22 @@ https://github.com/DaisukeDaisuke/AwaitFormOptions
 daisukedaisuketeam、および本アカウントの多くの告知は自動的に転送され、素早く反応できるように構成されています。  
 しかしながら、GIthubが最近自動ウォッチ設定を削除したため、`watch 0`であるリポジトリは反応できませんので、ご了承ください。  
 
+## 私は、pmmp歴8年以上のpmmpプロ開発者です。
+
+<details>
+
+<summary>開く</summary>
+
+- 2015年1月31日にminecraft for androidを初めて購入し、その後js modderを経由して[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)に入信しました。
+- おそらくバージョン3.0時代、pmmp大フォーク時代、デバックシンボル削除事件等を経験している現役のpmmp開発者は日本では数人しかおらず、そのうちの一人が私です。
+- 現在は、minecraft for Windows、統合版とも呼ばれるPC版で開発をしています。また開発ツールは[phpstorm](https://www.jetbrains.com/ja-jp/phpstorm/)に課金しています。
+- 8年以上プログラミングしていますが、あいかわらずオブジェクト指向は苦手です。
+- [AwaitFormOptions](https://github.com/DaisukeDaisuke/AwaitFormOptions)という画期的なフォームフレームワークを書いたりもしています。
+- 基本的に守秘義務が必要なものが多いため、GIthubではそれ以外の活動が目立ちます。
+
+</details>
+
+
 ## 所属している界隈について
 - 2023年: pmmp界隈での活動(PHP)
 - 2024年: dq9界隈での活動(ghidra+ARMV5Tリバースエンジニアリング、C++、C#、php)、[dq9におけるバトルエミュレータの実用化](https://github.com/DaisukeDaisukeTeam/dq9BattleEmulatorCollection.cpp)とか
