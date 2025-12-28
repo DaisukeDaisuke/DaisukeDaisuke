@@ -45,6 +45,7 @@ daisukedaisuketeam、および本アカウントの多くの告知は自動的�
 - 8年以上プログラミングしていますが、あいかわらずオブジェクト指向は苦手です。
 - [AwaitFormOptions](https://github.com/DaisukeDaisuke/AwaitFormOptions)という画期的なフォームフレームワークを書いたりもしています。
 - 基本的に守秘義務が必要なものが多いため、GIthubではそれ以外の活動が目立ちます。
+- pmmp日本界隈は、文献がほとんどなく(qiitaの記事は私が書いた)、ソースコードが文献で、またpmmpに対する幅広い知識がいるため、私の域まで達した開発者は数人しかいないか、過疎ってます。
 
 </details>
 
