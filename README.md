@@ -166,6 +166,8 @@ https://daisukedaisuke.hatenablog.com/entry/2025/08/25/172329
 - 1秒/3文字のスピードで入力できます。
 - おもに、左手は`shift+QWDASZX`を担当し、右手でほかのキーを入力します。
 - 右手が大幅に動くため、特定のパターンでかなりの確率で打ち間違えます。打ち間違えるパターンを暗記してるので、無意識でにバックスペース押すことよくあります
+- キーボードの入力は、完全に本体からの座標で覚えているため、キーボードのオフセットが違うと入力できなくなります。
+  - 人差し指での片手タイピング(キーボード見ないとだめ+遅い)や、 Logicool K295GP以外でのキーボード入力もできます。
 
 </details>
 
@@ -313,6 +315,18 @@ https://github.com/DaisukeDaisuke/dq9BattleEmulatorCollection.cpp
 MITライセンス、unlicenseなどを好みます。  
 
 ## 従事してきたプロジェクトメモ
+
+#### 2025年2月10日
+-pmmp関連(php)  
+
+#### 2025年2月1日~
+- dq9のdwcサーバー(dlc配信サーバー)を約4日で書いた+後始末   
+  - https://github.com/DaisukeDaisuke/dq9_micro_dwc_server_emulator.cpp   
+- dq7r配信追っかけでボーっとしてた
+
+#### 2025年1月25日~ 
+- バトルエミュのフロントエンド書いた+バトルエミュ高速化関連    
+  - https://dqix.github.io/BattleEmulator/    
 
 #### 2025年1月15日~
 - dq9バトルエミュの新探索アルゴリズムと格闘してた+記事書いた
