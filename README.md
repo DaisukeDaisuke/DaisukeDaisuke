@@ -375,8 +375,8 @@ MITライセンス、unlicenseなどを好みます。
 - pmmp関連(一人で1万5千行書いたりなど)
 
 #### 2026年2月~
-- https://github.com/DaisukeDaisuke/dq9_micro_dwc_server_emulator.cpp
-- 9バトルエミュレータなど
+- https://github.com/DaisukeDaisuke/PHPKanaKanjiConverter
+- 9バトルエミュレータ、pmmp関連など
 
 #### 2025年2月10日
 - pmmp関連(php)  
