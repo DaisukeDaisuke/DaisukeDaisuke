@@ -371,8 +371,15 @@ MITライセンス、unlicenseなどを好みます。
 
 ## 従事してきたプロジェクトメモ
 
+#### 2026年3月~4月
+- pmmp関連(一人で1万5千行書いたりなど)
+
+#### 2026年2月~
+- https://github.com/DaisukeDaisuke/dq9_micro_dwc_server_emulator.cpp
+- 9バトルエミュレータなど
+
 #### 2025年2月10日
--pmmp関連(php)  
+- pmmp関連(php)  
 
 #### 2025年2月1日~
 - dq9のdwcサーバー(dlc配信サーバー)を約4日で書いた+後始末   
