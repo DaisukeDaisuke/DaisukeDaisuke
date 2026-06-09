@@ -105,6 +105,7 @@ https://daisukedaisuke.hatenablog.com/archive
 - 2023年: pmmp界隈での活動(PHP)
 - 2024年: dq9界隈での活動(ghidra+ARMV5Tリバースエンジニアリング、C++、C#、php)、[dq9におけるバトルエミュレータの実用化](https://github.com/DaisukeDaisukeTeam/dq9BattleEmulatorCollection.cpp)とか
 - 2025年: pmmp界隈およびdq9界隈の双方で活動(PHP+ARMV5T)、dq9でリモートコード実行見つけた
+- 2026年 pmmp界隈とdq9界隈を反復横跳びしてます(2026年6月時点)
 
 ## 私は、筆記がまったくできません。
 
