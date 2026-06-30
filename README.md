@@ -196,7 +196,13 @@ https://daisukedaisuke.hatenablog.com/archive
 キーボード: Logicool K295GP(無線、メンブレン 日本語配列)
   * 静音、電卓キーがある、キーが端折られてなくて使いやすい、fnキーがない、マンガン電池で2か月持つという特徴を持つ無線キーボードです。
   * 1年ぐらいでキーが軽くなるのが難点。エンターキーも変な音するようになってきた。メカニカルならそんなことないのかな？
+  * Windows Updateが`Logitech Download Assistant (LDA, LogiLDA.DLL)`ソフトウェア+ドライバを勝手に入れるようになったので微妙になった。
   * 価格帯 3500円
+
+> Logitech Download Assistantアンインストール
+> 1. プログラムの一覧からLogitech Download Assistantをアンインストール
+> 2. コンピューター\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Runに残るので削除
+> 3. `logi_download_assistant_component.inf`が残るので、必要に応じてドライバの自動インストールをoffにしたうえで管理者コマンドプロンプトからアンインストール。
 
 マウス: ROCCAT Kone Pure Ultra
   - ドライバ不要で動作する多機能マクロ(設定は専用ドライバ必須)、「Owl-Eye」16Kセンサー、66グラム、7ボタンといった事務作業をする人にとっては最強のマウスです。
@@ -372,6 +378,9 @@ https://github.com/DaisukeDaisuke/dq9BattleEmulatorCollection.cpp
 MITライセンス、unlicenseなどを好みます。  
 
 ## 従事してきたプロジェクトメモ
+
+#### 2026年6月中旬~
+- ぼーっとしてた
 
 #### 2026年5月18日~
 - dq9 バトルエミュレーター
