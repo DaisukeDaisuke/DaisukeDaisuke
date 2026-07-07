@@ -5,7 +5,7 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 詳しい活動内容や連絡方法は、下の折りたたみに掲載しています。
 
 <details>
-<summary>L2: 活動・方針・連絡について</summary>
+<summary>活動・方針・連絡について</summary>
 
 ## 活動形態
 - 現在、趣味、無償活動、界隈貢献を優先しているため、仕事は募集していません。
@@ -58,11 +58,11 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
   - フォーク、大規模な引用をするリポジトリの場合は、オリジナルのライセンスと同期しています。
 
 <details>
-<summary>L3: 筆記について</summary>
+<summary>筆記について</summary>
 
 ## 私は、筆記がまったくできません。
 
-事情は伏せますが、私は筆記することがまったくできません。  
+私は筆記することがまったくできません。  
 一般社会では、この症状は学習障害(LD)の一つでディスグラフィアと呼ばれています。
 - ディスグラフィアは、本人が筆記するために書き方を勉強しても、一定期間たつと記憶と同様に忘れる、思い出せない、定着しないという特性のため、私は日常生活において筆記はほとんど捨てました。
     - このため、2020年頃には少しだけ書けた漢字も、ほとんど忘れています。ただし下記の通り、読み方は覚えており、文章構築能力もあるため、自分の強みとして活動に生かしています。
@@ -80,7 +80,7 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 </details>
 
 <details>
-<summary>L3: 読み方について</summary>
+<summary>読み方について</summary>
 
 ## 漢字や文章の読み方について
 
@@ -99,7 +99,7 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 
 
 <details>
-<summary>L3: 文章・記憶・入力について</summary>
+<summary>文章・記憶・入力について</summary>
 
 ## 文章の書き方について
 - 現在使用しているAIを介さない素の作文能力は、2020年ごろから独学で覚えました。
@@ -129,7 +129,7 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 </details>
 
 <details>
-<summary>L3: 活動タイムライン</summary>
+<summary>活動タイムライン</summary>
 
 #### 2026年6月中旬~
 - ぼーっとしてた
@@ -217,7 +217,7 @@ pmmp関連(php)
 </details>
 
 <details>
-<summary>L3: PocketMine-MPとDQ9への思い</summary>
+<summary>PocketMine-MPとDQ9への思い</summary>
 
 ## PocketMine-MPについて
 - PocketMine-MPは、2015年頃から長く触っている界隈です。
@@ -234,7 +234,7 @@ pmmp関連(php)
 </details>
 
 <details>
-<summary>L3: 活動実績の詳細</summary>
+<summary>活動実績の詳細</summary>
 
 ## PocketMine-MPについて
 - 2015年1月31日にMinecraft for Androidを初めて購入し、その後JS modderを経由して[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)界隈を知り、参加しました。
@@ -251,7 +251,7 @@ pmmp関連(php)
 - 2023年から2025年にかけて多くの時間を使い、今も続いています。
 
 ### DQ9リモートコード実行
-- 2025年11月8日に、日本版DQ9でリモートコード実行を発見しました。
+- 2025年11月8日に発見しました。
 - ゲームに任意のコードを注入できます。
 - 詳細は非公開です。
 
@@ -295,7 +295,7 @@ https://github.com/DQIX/auction
 </details>
 
 <details>
-<summary>L3: 連絡・依頼・アカウント保全の詳細</summary>
+<summary>連絡・依頼・アカウント保全の詳細</summary>
 
 ## 通常連絡について
 - 緊急ではない場合は、TwitterのDMでご連絡ください。
@@ -334,7 +334,7 @@ https://github.com/DQIX/auction
 </details>
 
 <details>
-<summary>L3: 環境</summary>
+<summary>環境</summary>
 
 ### 現在の主な入力環境
 
@@ -391,7 +391,7 @@ https://github.com/DQIX/auction
 </details>
 
 <details>
-<summary>L3: 個人メモ・細かい補足</summary>
+<summary>個人メモ・細かい補足</summary>
 
 ### 一人称について
 - 一人称は**私**および**自分**です。
@@ -479,7 +479,7 @@ https://github.com/DQIX/auction
 </details>
 
 <details>
-<summary>L3: バージョン1.0 README.mdについて</summary>
+<summary>バージョン1.0 README.mdについて</summary>
 
 > 以前のバージョンのREADME.mdは、[README_old.md](./README_old.md)から閲覧できます。
 
