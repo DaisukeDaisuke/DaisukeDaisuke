@@ -478,8 +478,10 @@ https://github.com/DQIX/auction
 
 <details>
 <summary>L3: バージョン1.0 README.mdについて</summary>
+
 > [!TIP]
 > 以前のバージョンのREADME.mdは、[README_old.md](./README_old.md)から閲覧できます。
+
 </details>
 
 </details>
