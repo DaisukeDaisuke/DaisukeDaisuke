@@ -17,19 +17,19 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 - Twitterは通知に気づけないことがあるため、返信時期は保証できません。
   - **緊急で、個人間で解決可能な紛争であれば、Sure-Contact経由で連絡をお願いします。** これにはGitHubアカウントが必要で、内容は一般公開されます。
 - 求人関連の連絡には返信しません。
-- 過去に使用していたメールアドレス含め、GitHub上でコミットのために使用しているメールアドレスに直接メールを送信しないでください。
-  - これらのメールアドレス宛の連絡には返信しません。
+- メールでの連絡には対応していません。
+
 
 ## 主な活動・実績
 
-### ドラゴンクエスト9での実績
+### ドラゴンクエスト9での主な実績
 - 日本版ドラクエ9で[リモートコード実行](https://x.com/Daisuke76897125/status/1987038952621285437)を発見 (2025年11月)
 - ドラクエ9に存在する[エンカウントテーブルの一般公開化](https://daisukedaisuke.hatenablog.com/entry/2024/04/29/072629) (2024年4月)
 - ドラクエ9 一人旅用RTA用[バトルエミュレーターの開発](https://note.com/zeppeki0711/n/n01b40d3c1a07) (2024年～)
 - [dqvcアイテムリストジェネレータ](https://x.com/Daisuke76897125/status/1980838616382468271)の開発 (2025年10月)
 - [dqix-functions](https://github.com/DQIX/dqix-functions)公開による、ドラクエ9の一部関数インデックス化 (2024年～)
 
-### PocketMine-MPでの実績
+### PocketMine-MPでの主な実績
 - [AwaitFormOptions](https://github.com/DaisukeDaisuke/AwaitFormOptions)の開発 (2025年6月)
 - [Core SOD](https://github.com/Core-SOD)での2か月で2.3万行規模のPHP 8.4開発に参加 (2025年～)
 - 入門記事の作成
