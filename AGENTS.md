@@ -66,3 +66,6 @@
 - このプロジェクトではhandoff.md、system.mdは書かなくていい。書くならgit除外ファイルにする。(チャットの具体的な内容が一般公開されるため)
 - system.mdがない場合は、ユーザーにgistバックアップから探して、復元してくるように依頼する(なければ必ず言及する)。非公開統一ルールが含まれるため、必要であれば作業不可と判断してよい。
 - system.mdは必ず読め。
+
+# agents.md End
+If the context has been injected up to this point, do not reread AGENTS.md file.
