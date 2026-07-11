@@ -138,6 +138,10 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 
 ### 2026年
 
+#### 6月中旬～気まぐれ
+- desmumeのウェブ版デバッカーの作成
+- https://github.com/DaisukeDaisuke/desmume_webassembly
+
 #### 6月中旬~
 - ぼーっとしてた
 
