@@ -7,19 +7,6 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 <details>
 <summary>活動・方針・連絡について</summary>
 
-## 活動形態
-- 現在は、抱えているタスク処理、界隈への貢献、趣味の活動を優先しているため、仕事は募集していません。
-
-## 連絡方針
-- 連絡は、Twitterまたは、Sure-Contact経由で常時受け付けています。
-  - Sure-Contact: https://github.com/DaisukeDaisuke/Sure-Contact/issues/new/choose
-  - Twitter: https://x.com/Daisuke76897125
-- Twitterは通知に気づけないことがあるため、返信時期は保証できません。
-  - **緊急で、個人間で解決可能な紛争であれば、Sure-Contact経由で連絡をお願いします。** これにはGitHubアカウントが必要で、内容は一般公開されます。
-- 求人関連の連絡には返信しません。
-- メールでの連絡には対応していません。
-
-
 ## 主な活動・実績
 
 ### ドラゴンクエスト9での主な実績
@@ -44,6 +31,18 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
   - https://qiita.com/DaisukeDaisuke/items/3938f245caec1e99d51e
 - マルチコメントビュワーのニコ生対応、ソフトウェアの延命などを含むフォークを公開リポジトリで維持
   - https://github.com/DaisukeDaisuke/MultiCommentViewer/releases/tag/0.6.37a
+
+## 活動形態
+- 現在は、抱えているタスク処理、界隈への貢献、趣味の活動を優先しているため、仕事は募集していません。
+
+## 連絡方針
+- 連絡は、Twitterまたは、Sure-Contact経由で常時受け付けています。
+  - Sure-Contact: https://github.com/DaisukeDaisuke/Sure-Contact/issues/new/choose
+  - Twitter: https://x.com/Daisuke76897125
+- Twitterは通知に気づけないことがあるため、返信時期は保証できません。
+  - **緊急で、個人間で解決可能な紛争であれば、Sure-Contact経由で連絡をお願いします。** これにはGitHubアカウントが必要で、内容は一般公開されます。
+- 求人関連の連絡には返信しません。
+- メールでの連絡には対応していません。
 
 ## 公開方針
 - 公開できるコードや知見はできるだけオープンソースとして残し、界隈や世界に少しだけ貢献できればよいと思っています。
