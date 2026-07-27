@@ -137,6 +137,13 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 
 ### 2026年
 
+#### 7月~
+- codexで遊んでた
+- desmume_webassemblyの大規模改修
+  - https://github.com/DaisukeDaisuke/desmume_webassembly/pull/2
+- codexによるdq9の解析
+  - https://github.com/DQIX/dq9RespawnTimer
+
 #### 6月中旬～気まぐれ
 - desmumeのウェブ版デバッカーの作成
 - https://github.com/DaisukeDaisuke/desmume_webassembly
