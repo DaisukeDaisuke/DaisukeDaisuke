@@ -15,6 +15,7 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 - ドラクエ9 一人旅用RTA用[バトルエミュレーターの開発](https://note.com/zeppeki0711/n/n01b40d3c1a07) (2024年～)
 - [dqvcアイテムリストジェネレータ](https://x.com/Daisuke76897125/status/1980838616382468271)の開発 (2025年10月)
 - [dqix-functions](https://github.com/DQIX/dqix-functions)公開による、ドラクエ9の一部関数インデックス化 (2024年～)
+- dq9内の採取ポイントの[タイマー](https://github.com/DQIX/dq9RespawnTimer)の作成 (2026年7月)
 
 ### PocketMine-MPでの主な実績
 - [AwaitFormOptions](https://github.com/DaisukeDaisuke/AwaitFormOptions)の開発 (2025年6月)
