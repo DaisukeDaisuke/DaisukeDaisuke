@@ -137,6 +137,16 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 
 ### 2026年
 
+#### 8月3日～
+- ウェブ版ChatGPTで、ローカルmcpを利用できるようにするプロキシをChatGPTウェブ版で制作した
+- https://github.com/DaisukeDaisuke/local-mcp-chatgpt-tunnel
+
+#### 7月15日～しばらくの間
+- ChatGPTを2アカウント契約して遊んでた
+- 数日に1回のペースでリセットされる、Codexの利用枠を使い切ることで苦しんでた
+- ウェブ版ndsエミュレーター兼デバッカも進歩を遂げた
+- https://github.com/DaisukeDaisuke/desmume_webassembly
+
 #### 7月~
 - codexで遊んでた
 - desmume_webassemblyの大規模改修
@@ -406,9 +416,9 @@ https://github.com/DQIX/auction
 - 通信用のスマホとして。ゲームしないので2万円ぐらいで購入
 - 現役で運用中
 
-#### 11インチ IPad Air (M4)
-- 引退した Xperia Z4 Tabletくんの後続タブレッドが欲しい、ニコニコ生放送など、外で無制限にインターネットを使用したいという兼ねての思いを実現するために購入予定
-- Povo 2.0で運用、詳細なグレードは秘密にしておきます
+#### 11インチ IPad Air (M4)　20206年7月19日～現役
+- 引退した Xperia Z4 Tabletくんの後続タブレッドが欲しい、という理由で購入。回線の契約は検討中
+- サブ端末、動画視聴用
 
 </details>
 
