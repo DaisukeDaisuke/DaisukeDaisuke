@@ -34,7 +34,7 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
   - https://github.com/DaisukeDaisuke/MultiCommentViewer/releases/tag/0.6.37a
 - OpenAIのSecure MCP Tunnelと、ローカルMCPを仲介するプログラムをNode.jsで作成(2026年8月)
   - https://github.com/DaisukeDaisuke/local-mcp-chatgpt-tunnel
-- typed-voiceの実装 (2026年8月)
+- 文字を打つ、そのまま声になる - typed-voiceの実装 (2026年8月)
   - https://rabbitdaisuke.github.io/blog/typed-voice/
 
 ## 活動形態
