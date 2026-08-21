@@ -32,6 +32,10 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
   - https://qiita.com/DaisukeDaisuke/items/3938f245caec1e99d51e
 - マルチコメントビュワーのニコ生対応、ソフトウェアの延命などを含むフォークを公開リポジトリで維持
   - https://github.com/DaisukeDaisuke/MultiCommentViewer/releases/tag/0.6.37a
+- OpenAIのSecure MCP Tunnelと、ローカルMCPを仲介するプログラムをNode.jsで作成(2026年8月)
+  - https://github.com/DaisukeDaisuke/local-mcp-chatgpt-tunnel
+- typed-voiceの実装 (2026年8月)
+  - https://rabbitdaisuke.github.io/blog/typed-voice/
 
 ## 活動形態
 - 現在は、抱えているタスク処理、界隈への貢献、趣味の活動を優先しているため、仕事は募集していません。
@@ -138,9 +142,13 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 
 ### 2026年
 
+#### 8月16日～
+- typed-voiceの実装に専念
+  - https://rabbitdaisuke.github.io/blog/typed-voice/
+
 #### 8月3日～
 - ウェブ版ChatGPTで、ローカルmcpを利用できるようにするプロキシをChatGPTウェブ版で制作した
-- https://github.com/DaisukeDaisuke/local-mcp-chatgpt-tunnel
+  - https://github.com/DaisukeDaisuke/local-mcp-chatgpt-tunnel
 
 #### 7月15日～しばらくの間
 - ChatGPTを2アカウント契約して遊んでた
