@@ -162,6 +162,7 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
   - https://github.com/DaisukeDaisuke/desmume_webassembly/pull/2
 - codexによるdq9の解析
   - https://github.com/DQIX/dq9RespawnTimer
+- 2026年7月9日: pmmpがサ終して驚くなどした。
 
 #### 6月中旬～気まぐれ
 - desmumeのウェブ版デバッカーの作成
