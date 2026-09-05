@@ -142,6 +142,9 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 
 ### 2026年
 
+#### 8月25日～
+- AI丸投げバトルエミュレータ(時間だけが溶けていく)
+
 #### 8月16日～
 - typed-voiceの実装に専念
   - https://rabbitdaisuke.github.io/blog/typed-voice/
