@@ -142,6 +142,10 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 
 ### 2026年
 
+#### 9月14日～
+- ossのためにchatGPTを課金し地獄のdq9バトルエミュレータ月間とし、ひたすら作業。とにかく作業
+ - https://github.com/DQIX/BattleEmulator
+
 #### 8月25日～
 - AI丸投げバトルエミュレータ(時間だけが溶けていく)
 
