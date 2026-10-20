@@ -547,6 +547,6 @@ https://github.com/DQIX/auction
 </details>
 
 ## 概要を3分で
-![profile](profile-dark2.webp#gh-dark-mode-only) 
-![profile](profile-light2.webp#gh-light-mode-only)
+![profile](profile-dark3.webp#gh-dark-mode-only) 
+![profile](profile-light3.webp#gh-light-mode-only)
 
