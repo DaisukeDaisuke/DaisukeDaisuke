@@ -548,6 +548,11 @@ https://github.com/DQIX/auction
 
 ## 概要を3分で
 
-![profile](profile-dark.png#gh-dark-mode-only) 
-![profile](profile-light.png#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="profile-dark.webp">
+  <source media="(prefers-color-scheme: light)" type="image/webp" srcset="profile-light.webp">
+  <source media="(prefers-color-scheme: dark)" type="image/png" srcset="profile-dark.png">
+  <source media="(prefers-color-scheme: light)" type="image/png" srcset="profile-light.png">
+  <img src="profile-light.png" alt="profile">
+</picture>
 
