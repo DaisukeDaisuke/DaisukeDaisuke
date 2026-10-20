@@ -547,9 +547,6 @@ https://github.com/DQIX/auction
 </details>
 
 ## 概要を3分で
-
-
-## 概要を3分で
 ![profile](profile-dark.webp#gh-dark-mode-only) 
 ![profile](profile-light.webp#gh-light-mode-only)
 
