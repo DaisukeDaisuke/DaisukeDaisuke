@@ -4,6 +4,8 @@ PHP、PocketMine-MP、DQ9解析周辺で活動しています。
 現在、仕事・副業の依頼は受けていません。  
 詳しい活動内容や連絡方法は、下の折りたたみに掲載しています。
 
+## テキストで詳しく
+
 <details>
 <summary>活動・方針・連絡について</summary>
 
@@ -543,3 +545,9 @@ https://github.com/DQIX/auction
 </details>
 
 </details>
+
+## 概要を3分で
+
+![profile](profile-dark.png#gh-dark-mode-only) 
+![profile](profile-light.png#gh-light-mode-only)
+
