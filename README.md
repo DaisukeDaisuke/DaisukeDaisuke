@@ -547,6 +547,13 @@ https://github.com/DQIX/auction
 </details>
 
 ## 概要を3分で
+
+<details>
+
+<summary>画像3枚を開く</summary>
+
+<br>
+
 ![profile](profile-dark3.webp#gh-dark-mode-only) 
 ![profile](profile-light3.webp#gh-light-mode-only)
 
@@ -557,3 +564,7 @@ https://github.com/DQIX/auction
 
 [![profile-dark.webp](../contribution-graphs/profile-dark3.webp#gh-dark-mode-only)](../contribution-graphs/profile-dark.webp#gh-dark-mode-only)
 [![profile-light.webp](../contribution-graphs/profile-light3.webp#gh-light-mode-only)](../contribution-graphs/profile-light.webp#gh-light-mode-only)
+
+</details>
+
+
