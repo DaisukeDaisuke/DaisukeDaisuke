@@ -18,3 +18,22 @@
 ![profile-dark.webp](https://raw.githubusercontent.com/DaisukeDaisuke/DaisukeDaisuke/contribution-graphs/profile-dark.webp#gh-dark-mode-only) \
 ![profile-light.webp](https://raw.githubusercontent.com/DaisukeDaisuke/DaisukeDaisuke/contribution-graphs/profile-light.webp#gh-light-mode-only)
 ```
+
+## Activity statistics
+
+[![activity-dark.webp](https://raw.githubusercontent.com/DaisukeDaisuke/DaisukeDaisuke/contribution-graphs/activity-dark3.webp#gh-dark-mode-only)](https://raw.githubusercontent.com/DaisukeDaisuke/DaisukeDaisuke/contribution-graphs/activity-dark.webp#gh-dark-mode-only) \
+[![activity-light.webp](https://raw.githubusercontent.com/DaisukeDaisuke/DaisukeDaisuke/contribution-graphs/activity-light3.webp#gh-light-mode-only)](https://raw.githubusercontent.com/DaisukeDaisuke/DaisukeDaisuke/contribution-graphs/activity-light.webp#gh-light-mode-only)
+
+同じリポジトリの別ブランチ：
+
+```markdown
+[![activity-dark.webp](/../contribution-graphs/activity-dark3.webp#gh-dark-mode-only)](/../contribution-graphs/activity-dark.webp#gh-dark-mode-only) \
+[![activity-light.webp](/../contribution-graphs/activity-light3.webp#gh-light-mode-only)](/../contribution-graphs/activity-light.webp#gh-light-mode-only)
+```
+
+別のリポジトリ：
+
+```markdown
+[![activity-dark.webp](https://raw.githubusercontent.com/DaisukeDaisuke/DaisukeDaisuke/contribution-graphs/activity-dark3.webp#gh-dark-mode-only)](https://raw.githubusercontent.com/DaisukeDaisuke/DaisukeDaisuke/contribution-graphs/activity-dark.webp#gh-dark-mode-only) \
+[![activity-light.webp](https://raw.githubusercontent.com/DaisukeDaisuke/DaisukeDaisuke/contribution-graphs/activity-light3.webp#gh-light-mode-only)](https://raw.githubusercontent.com/DaisukeDaisuke/DaisukeDaisuke/contribution-graphs/activity-light.webp#gh-light-mode-only)
+```
